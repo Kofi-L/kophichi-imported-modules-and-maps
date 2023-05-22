@@ -7,7 +7,7 @@
     "name": "Kophichi"
     }
     ],
-   "version": "1.0.0",
+   "version": "2.0.0",
    "compatibility": {
    "minimum": "9",
    "verified": "10"},
@@ -16,18 +16,8 @@
    "url": "https://github.com/Kofi-L/kophichi-imported-modules-and-maps",
    "relationships": {
     "requires": [
-      {
-        "id": "about-face",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "advanced-macros",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "always-centred",
+            {
+        "id": "advanced-macros always-centred",
         "type": "module",
         "compatibility": {}
       },
@@ -37,7 +27,137 @@
         "compatibility": {}
       },
       {
+        "id": "animation-preview",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "jaamod",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "JB2A_DnD5e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "journal-thumbnail",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-stances",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
         "id": "autoanimations",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lootsheet-simple",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-staves",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-landing-pages",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "michaelghelfi",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-target-damage",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-reaction",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-see-simple-scale-statistics",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-spells-summary",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "user-latency",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "walledtemplates",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "wall-height warpgate",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "world-scripter",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "xdy-pf2e-workbench",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-maps",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "baileywiki-nuts-and-bolts",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-thaum-vuln",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "README",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-enhanced-journal",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pointer",
         "type": "module",
         "compatibility": {}
       },
@@ -52,12 +172,17 @@
         "compatibility": {}
       },
       {
-        "id": "canvas3dtokencompendium",
+        "id": "colorsettings",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "colorsettings",
+        "id": "monks-player-settings",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "popout",
         "type": "module",
         "compatibility": {}
       },
@@ -87,7 +212,47 @@
         "compatibility": {}
       },
       {
+        "id": "easy-exports",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "easy-notes",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pathmuncher",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-scene-navigation",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-shops",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-tokenbar",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
         "id": "moonlight-maps-free",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "moulinette-core",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "moulinette-tiles",
         "type": "module",
         "compatibility": {}
       },
@@ -102,27 +267,132 @@
         "compatibility": {}
       },
       {
-        "id": "npc-chatter",
+        "id": "popout-resizer quick-insert quickscale",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "parallaxia",
+        "id": "scene-packer",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "monks-active-tiles",
+        "id": "scene-transitions",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "monks-enhanced-journal",
+        "id": "sequencer",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "monks-scene-navigation",
+        "id": "settings-extender",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "shopping-experience",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "simbuls-athenaeum",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "enhanced-terrain-layer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "patrol",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "simple-dice-roller",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fast-flip",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "permission_viewer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "find-the-culprit",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-alignment-damage",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "forge-vtt",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "|pf2e-animal-companions",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "forien-copy-environment",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-bardic-inspiration",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "foundry_community_tables",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-color-effects",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "foundryvtt-arms-reach",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-dailies",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "smart-doors",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "smarttarget",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "SoundBoard",
         "type": "module",
         "compatibility": {}
       },
@@ -137,17 +407,77 @@
         "compatibility": {}
       },
       {
+        "id": "foundryvtt-show-notes",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-display-actions",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
         "id": "soundfxlibrary",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "splatter",
+        "id": "pf2e-dorako-ui",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "tabletop-rpg-music",
+        "id": "pf2e-dragruler",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "foundryvtt-simple-calendar",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fvtt-syrin-control",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fxmaster",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "grape juice-isometrics",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "grape juice-isometrics-pro healthEstimate",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "hex-size-support",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-effect-description",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "| pf2e-exploration-activities",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-fatigue pf2e-f-is-for-flatfooted",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pf2e-giveth",
         "type": "module",
         "compatibility": {}
       },
@@ -167,17 +497,7 @@
         "compatibility": {}
       },
       {
-        "id": "patrol",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "token-action-hud",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "permission_viewer",
         "type": "module",
         "compatibility": {}
       },
@@ -187,182 +507,17 @@
         "compatibility": {}
       },
       {
-        "id": "pf2e-color-effects",
+        "id": "splatter",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "token-action-hud-pf2e",
+        "id": "tabletop-rpg-music",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "pf2e-dailies",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "token-attacher",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "pf2e-display-actions",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "token-auras",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "pf2e-dorako-ui",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "easy-exports",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "easy-notes",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "enhanced-terrain-layer",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "forien-copy-environment",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "foundry_community_tables",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "pf2e-dragruler",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "pf2e-effect-description",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "pf2e-f-is-for-flatfooted",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "pf2e-jb2a-macros",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "token-frames",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "token-mold",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "torch",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "user-latency",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "vtta-tokenizer",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "foundryvtt-arms-reach",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "foundryvtt-show-notes",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "grape juice-isometrics",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "healthEstimate",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "pf2e-stances",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "pf2e-staves",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "pf2e-modifiers-matter",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "pf2e-ranged-combat",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "wall-height",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "warpgate",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "xdy-pf2e-workbench",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "ivan-duch-music-packs",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "pf2e-target-damage",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "hide-sidebars",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "pf2e-thaum-vuln",
+        "id": "tagger",
         "type": "module",
         "compatibility": {}
       },
@@ -372,7 +527,7 @@
         "compatibility": {}
       },
       {
-        "id": "pings",
+        "id": "pf2e-hero-actions",
         "type": "module",
         "compatibility": {}
       },
@@ -382,22 +537,27 @@
         "compatibility": {}
       },
       {
+        "id": "pf2e-jb2a-macros",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-action-hud-pf2e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
         "id": "illandril-token-tooltips",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "popout",
+        "id": "pf2e-modifiers-matter",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "popout-resizer",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "image-hover",
+        "id": "token-attacher",
         "type": "module",
         "compatibility": {}
       },
@@ -407,110 +567,45 @@
         "compatibility": {}
       },
       {
-        "id": "JB2A_DnD5e",
+        "id": "pf2e-npc-knowledges",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "journal-thumbnail",
+        "id": "token-auras",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "quick-insert",
+        "id": "item-piles",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "scaleGrid",
+        "id": "pf2e-psychic-amps",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "scene-packer",
+        "id": "tokenmagic",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "sequencer",
+        "id": "item-to-chat",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "settings-extender",
+        "id": "pf2e-ranged-combat",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "levels",
+        "id": "torch",
         "type": "module",
         "compatibility": {}
       },
-      {
-        "id": "lib-wrapper",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "lootsheet-simple",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "mad-freecontent",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "simbuls-athenaeum",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "simple-dice-roller",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "simplefog",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "smart-doors",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "mg-living-world-core",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "mg-ready-check",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "michaelghelfi",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "smarttarget",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "socketlib",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "SoundBoard",
-        "type": "module",
-        "compatibility": {}
-      }
     ]
   },
     "packs": [
